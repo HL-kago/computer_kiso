@@ -1,0 +1,5 @@
+kekka1= 9 
+kekka2= 6 
+kekka3= 18 
+kekka4= 6 
+kekka5= 0 
